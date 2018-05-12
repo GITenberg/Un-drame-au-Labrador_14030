@@ -1,0 +1,28 @@
+_repo: Un-drame-au-Labrador_14030
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dick, Vinceslas-Eugène
+    alias: Dick, Vinceslas-Eugene
+    birthdate: 1848
+    deathdate: 1919
+    gutenberg_agent_id: '5338'
+    url: http://www.gutenberg.org/2009/agents/5338
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14030'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Labrador (N.L.) -- Fiction'
+title: Un drame au Labrador
+url: http://www.gutenberg.org/ebooks/14030
