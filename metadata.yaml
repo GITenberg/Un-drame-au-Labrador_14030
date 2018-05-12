@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5338'
     url: http://www.gutenberg.org/2009/agents/5338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14030#Un-drame-au-Labrador
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-11-12'
 gutenberg_type: Text
